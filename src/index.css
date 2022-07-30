@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300;400&family=Alegreya:wght@600&family=Montserrat+Alternates:wght@300&family=Montserrat:wght@600;700&family=Mulish&family=Open+Sans:wght@400;500&family=Poppins:wght@200;300;400;500;700;800;900&family=Roboto:wght@300;400;700&family=Source+Sans+Pro:wght@200;300;400&display=swap');
+body {
+  margin: 0;
+  font-family: 'Montserrat Alternates', sans-serif !important;
+  background-color: #131722;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
